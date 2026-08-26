@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html#risks-in-population-health",
+    "href": "index.html#risks-in-population-health",
+    "title": "Health Risk Assessment and Causation",
+    "section": "1Risks in Population Health",
+    "text": "1Risks in Population Health\n\nCentral Task: Assessing health risks core function in pop. health.\nBroad Usage of “Risk”: The term describes the probability of adverse outcomes, risk factors, and health consequences.\nRisk Factors vs. Risk Markers: Distinguishing between factors that cause disease and those that indicate its presence.\nHealth Risk Appraisal (HRA): Using quantitative procedures to estimate mortality and morbidity risks.\nHealth Risk Assessment: Evaluating scientific data on hazardous environmental agents ⇔ human exposure."
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps",
+    "href": "index.html#health-risk-assessment-steps",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nHazard Identification: Identifying harmful agents and describing toxicity.\nDose-Response Assessment: Modeling exposure and health effect size variations.\nExposure Assessment: Identifying exposed populations, exposure routes, and dose characteristics.\nRisk Characterization: Integrating data to estimate harm likelihood."
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-1",
+    "href": "index.html#health-risk-assessment-steps-1",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nHazard Identification: Identifying harmful agents and describing toxicity"
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-2",
+    "href": "index.html#health-risk-assessment-steps-2",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nFlint resident lives in uncertainty after lead exposure youtube-link\nJapan Declares Crisis As Fukushima Reactor Begins Falling Into Ocean And Radiation Levels Soar youtube-link"
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-3",
+    "href": "index.html#health-risk-assessment-steps-3",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nDose-Response Assessment: Modeling exposure and health effect size variations."
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-4",
+    "href": "index.html#health-risk-assessment-steps-4",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nExposure Assessment: Identifying exposed populations, exposure routes, and dose characteristics."
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-5",
+    "href": "index.html#health-risk-assessment-steps-5",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nExposure Assessment: Identifying exposed populations, exposure routes, and dose characteristics."
+  },
+  {
+    "objectID": "index.html#health-risk-assessment-steps-6",
+    "href": "index.html#health-risk-assessment-steps-6",
+    "title": "Health Risk Assessment and Causation",
+    "section": "2Health Risk Assessment Steps",
+    "text": "2Health Risk Assessment Steps\n\nRisk Characterization: Integrating data to estimate harm likelihood."
+  },
+  {
+    "objectID": "index.html#concepts-of-causation",
+    "href": "index.html#concepts-of-causation",
+    "title": "Health Risk Assessment and Causation",
+    "section": "3Concepts of Causation",
+    "text": "3Concepts of Causation\n\nNecessary Cause: A cause that must be present for an effect to occur.\nSufficient Cause: A cause that inevitably produces the effect.\nRemote vs. Proximate Causes: Understanding causal chains and effect proximity."
+  },
+  {
+    "objectID": "index.html#concepts-of-causation-1",
+    "href": "index.html#concepts-of-causation-1",
+    "title": "Health Risk Assessment and Causation",
+    "section": "3Concepts of Causation",
+    "text": "3Concepts of Causation\n\nBradford Hill’s Criteria:\n\n1 Strength & Consistency – A strong and repeated association across studies increases the likelihood of causation.\n2 Specificity & Temporality – The cause should lead to a specific effect, and the effect must occur after the cause.\n\n3 Biological Gradient & Plausibility – A dose-response relationship should exist, and the cause should make biological sense.\n\n4 Coherence & Experiment – The evidence should align with existing knowledge, and experiments should support the causal link.\n\n5 Analogy– If similar factors cause similar effects, the association is more credible."
+  },
+  {
+    "objectID": "index.html#measures-of-association",
+    "href": "index.html#measures-of-association",
+    "title": "Health Risk Assessment and Causation",
+    "section": "4Measures of Association",
+    "text": "4Measures of Association\n\nRatio Measures: Relative risk, risk ratio, rate ratio, odds ratio.\nDifference Measures: Risk difference or attributable risk.\nRelative Risk (RR): \\(RR = \\frac{I_1}{I_0}\\)\nOdds Ratio (OR): \\(OR = \\frac{(a/c)}{(b/d)} = \\frac{ad}{bc}\\)\nRisk Difference (RD): \\(RD = I_1 - I_0\\)\nAttributable Risk Among the Exposed [AR(E)]: \\(AR(E) = \\frac{(I_1 - I_0)}{I_1} = \\frac{(RR - 1)}{RR}\\)\nPopulation Attributable Risk (PAR): \\(PAR = \\frac{(I - I_0)}{I} = \\frac{P(RR - 1)}{P(RR - 1) + 1}\\)"
+  },
+  {
+    "objectID": "index.html#competing-risks",
+    "href": "index.html#competing-risks",
+    "title": "Health Risk Assessment and Causation",
+    "section": "5Competing Risks",
+    "text": "5Competing Risks\n\nDefinition: Recognizes that individuals are exposed to multiple risks, where one event prevents another.\nImportance: Essential for understanding mortality trends and disease impact.\nStatistical Approaches: Methods to estimate death probability in competing risks."
+  },
+  {
+    "objectID": "index.html#risk-perception-and-communication",
+    "href": "index.html#risk-perception-and-communication",
+    "title": "Health Risk Assessment and Causation",
+    "section": "6Risk Perception and Communication",
+    "text": "6Risk Perception and Communication\n\nSubjectivity of Risk: Public perception differs from expert assessments.\nSocial Construction of Risk: Influences include social, cultural, and political factors.\nFactors Influencing Risk Acceptance: Fair distribution, benefits, alternatives, voluntary vs. imposed risks, and control.\nBiases in Probability Assessment: Representativeness, anchoring, and availability.\nEffective Risk Communication: Public involvement, planning, listening, honesty, coordination, media engagement, clarity, and compassion."
+  }
+]
