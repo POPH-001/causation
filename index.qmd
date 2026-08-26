@@ -1,6 +1,5 @@
 ---
 title: "Health Risk Assessment and Causation"
-subtitle: "March 30<br> Eric Delmelle"
 format:
   revealjs:
     pdf: true
