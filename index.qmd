@@ -50,13 +50,8 @@ ul ul {
 -   **Concepts of Causation**: Reviewing causation from historical and contemporary perspectives.
 -   **Quantifying Association**: Using ratio and difference measures to quantify associations.
 
-# [**Chapter Overview**]{style="text-align: center; color: blue;"}
-
 -   **Assessing Causal Effect**: Applying attributable risk and its variants.
 
--   **Competing Risks**: Explaining how competing risks affect mortality patterns.
-
--   **Risk Perception and Communication**: Recognizing the critical role of risk perception and communication in public health.
 
 ------------------------------------------------------------------------
 
